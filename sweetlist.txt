@@ -3,3 +3,5 @@ cookies
 ice cream
 fudge
 donuts
+Chocolate
+Vanilla
