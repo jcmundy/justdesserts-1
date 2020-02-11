@@ -4,3 +4,5 @@ ice cream
 fudge
 donuts
 pecan pie
+Chocolate
+Vanilla
